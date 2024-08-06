@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Your Extension Name",
+  "version": "1.0",
+  "permissions": ["activeTab", "storage", "https://www.reddit.com/r/indiasocial/"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "128": "images/icon128.png"
+    }
+  },
+  "icons": {
+    "128": "images/icon128.png"
+  }
+}
+
+  
